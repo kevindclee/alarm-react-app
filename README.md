@@ -1,7 +1,7 @@
 
 # :alarm_clock:alarm-react-app
 Alarm application built with <img src="https://img.shields.io/badge/React-gray?logo=react"> <br/>
-This project was built under alternative username [@ldc-bootcamp01] (https://github.com/ldc-bootcamp01) during the En-core Playdata bootcamp.
+This project was built under alternative username [@ldc-bootcamp01](https://github.com/ldc-bootcamp01) during the En-core Playdata bootcamp.
 
 ## Overview
 With this Alarm application, you can:
